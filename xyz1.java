@@ -1,8 +1,8 @@
 package xyz;
 
-public class y {
+public class xyz1 {
 	
-	int Mult ( int a, int b)
+	int div ( int a, int b)
 	{ System.out.println("Division done!!");
 
 	 return a/b

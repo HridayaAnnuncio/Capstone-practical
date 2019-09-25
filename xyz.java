@@ -1,6 +1,6 @@
 package xyz;
 
-public class y {
+public class xyz {
 	
 	int Mult ( int a, int b)
 	{ System.out.println("Multiplication done!!");
