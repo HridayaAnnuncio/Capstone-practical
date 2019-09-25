@@ -2,10 +2,10 @@ package xyz;
 
 public class y {
 	
-	void Mult ( int a, int b)
+	int Mult ( int a, int b)
 	{ System.out.println("Division done!!");
 
-	 
+	 return a/b
 
 	}
 }
